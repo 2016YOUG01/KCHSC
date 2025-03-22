@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>APRS Tracking</name>
+    <description><![CDATA[
+      <p>Initial view: 1°33.65' N 110°18.43' E</p>
+      <p>Google Earth application by <a href='https://aprs.fi/'>aprs.fi</a></p>
+    ]]></description>
+    <LookAt>
+      <latitude>1.5608</latitude>
+      <longitude>110.3071</longitude>
+      <range>16000</range>
+    </LookAt>
+    <Placemark>
+      <name>Example Target</name>
+      <Point>
+        <coordinates>110.3071,1.5608</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
