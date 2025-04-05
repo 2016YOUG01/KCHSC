@@ -1,0 +1,3 @@
+version=2
+url=https://github.com/2016YOUG01/KCHSC/main/update/app-release.apk
+description=This update includes bug fixes, performance improvements, and new features.
